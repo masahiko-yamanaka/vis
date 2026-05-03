@@ -1,4 +1,4 @@
-# Vis - Very Important Sonder
+# Vis - Very Important Sounder
 
 ## 概要
 目の前の箱を世界中の人々の心を動かす楽器にする。
